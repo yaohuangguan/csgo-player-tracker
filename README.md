@@ -1,7 +1,7 @@
-#Built with Node.js and Vue.js
+# Built with Node.js and Vue.js
 
-##npm install in client and root folder
+## npm install in client and root folder
 
 then
 
-##npm run dev
+## npm run dev
